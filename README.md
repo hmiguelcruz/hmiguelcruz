@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hmiguelcruz&theme=dark&border_radius=8&date_format=%5BY.%5Dn.j&card_width=600&background=10%2C171717%2C2E1111&border=3F3F3F)](https://git.io/streak-stats)
+
 <!--
 **hmiguelcruz/hmiguelcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
